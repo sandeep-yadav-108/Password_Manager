@@ -1,2 +1,2 @@
-# password_generator_
-this program gives you a random password
+#password manager
+my first project with python 
